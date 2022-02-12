@@ -1,0 +1,5 @@
+1 - Installa ESLint plugin per visual studio code
+2 - Installa il modulo npm install -g eslint
+3 - Carica i file 1.eslintrc e 2.eslintignore nella root del progetto
+4 - rinomina i file in .eslintrc e .eslintignore
+5 - carica il file registerServiceWorker.js nella cartella js
